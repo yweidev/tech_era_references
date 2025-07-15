@@ -149,3 +149,9 @@ This is the Citation and References for ITCA's paper on ISUZU Tech Journal #137
 (146)	Supply chain analytics: Harness uncertainty with smarter bets, https://www.mckinsey.com/capabilities/operations/our-insights/supply-chain-analytics-harness-uncertainty-with-smarter-bets     
 (147)	Current FMCSA Crach Cost Figures: https://www.fmcsa.dot.gov/sites/fmcsa.dot.gov/files/docs/FMCSACrashCostCalculationsDec08.pdf      
 (148)	Kalra, N., & Paddock, S. M. (2016). Driving to safety: How many miles of driving would it take to demonstrate autonomous vehicle reliability? RAND Corporation.      
+(149) rohan, A., et al. (2023). RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control. arXiv preprint arXiv:2307.15818.
+(150) Scaling supply chain resilience: Agentic AI for autonomous operations. (2025). IBM Institute for Business Value in collaboration with Oracle and Accelalpha     
+(151) Liu, X., et al. (2023). Camel: Communicative agents for “mind” exploration of large scale language model society. arXiv preprint arXiv:2303.17760.             
+(152) Park, J. S., et al. (2023). Generative agents: Interactive simulacra of human behavior. arXiv preprint arXiv:2304.03442.         
+(153) Xu, H., Sun, Y., Tupayachi, J., Omitaomu, O., Zlatanov, S., & Li, X. (2025). Towards the autonomous optimization of urban logistics: Training generative AI with scientific tools via agentic digital twins and model context protocol. arXiv.               
+
