@@ -1,4 +1,6 @@
 This is the Citation and References for ITCA's paper on ISUZU Tech Journal #137    
+
+
 (1)	“ISUZU Transformation 2030” https://www.isuzu.co.jp/world/company/IX2030     
 (2)	“ISUZU unveils mid-term business plan ISUZU Transformation (IX) – Transforming into a commercial mobility solutions company by 2030”, ISUZU, 2024, https://www.isuzu.co.jp/world/newsroom/details/20240403_1.html       
 (3)	ATA Truck Driver Shortage analysis 2019, https://www.trucking.org/sites/default/files/2020-01/ATAs%20Driver%20Shortage%20Report%202019%20with%20cover.pdf       
